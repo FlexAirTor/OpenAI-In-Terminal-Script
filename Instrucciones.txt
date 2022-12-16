@@ -1,0 +1,16 @@
+Les dejo un pequeño script sencillo para realizar las busquedas con ChatGPT, solo tienen que agregar su APY-Key de su cuenta para que se sincronice, recuerden que tienen que descarga las librerias de openai
+
+    pip install openai
+    pip install wandb
+
+Recuerden ejecutar despues para iniciar sension y sincronizarla su cuenta usando este comando
+    
+    openai -vvv -k "Inserta tu clave privada API-Key" wandb sync
+
+Y listo ya con eso les va funcionar el script
+
+La diferencia a usarlo en el navegador es que es menos propenso al tiemout por la saturación de toda la gente del mundo usandolo
+
+Me avisan si tienen dudas
+
+
