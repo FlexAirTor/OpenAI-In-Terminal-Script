@@ -4,7 +4,7 @@ import openai
 # que agregues la pregunta o busqueda dentro del codigo 
 # en el renglon 12 dentro de las comillas.
 
-openai.api_key = "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"
+openai.api_key = "Write_Your_API_Key_Here"
 
 # Hacer una pregunta al modelo
 response = openai.Completion.create(
