@@ -3,7 +3,7 @@ import sys
 
 # Ejemplo de ejecucion de script
 # python3 nombre_del_archivo.py "¿Cuál es la capital de Francia?"
-
+# Puedes probar la version v0.2 que es mas comoda de usar
 
 openai.api_key = "Write_your_API-Key_Here"
 
