@@ -7,6 +7,8 @@ Recuerden ejecutar despues para iniciar sension y sincronizarla su cuenta usando
     
     openai -vvv -k "Inserta tu clave privada API-Key" wandb sync
 
+*****ESTO ES FUNCIONAL SOLO PARA EL SITIO < https://chat.openai.com/chat > < https://beta.openai.com/account/api-keys > *****
+
 Y listo ya con eso les va funcionar el script
 
 La diferencia a usarlo en el navegador es que es menos propenso al tiemout por la saturación de toda la gente del mundo usandolo
